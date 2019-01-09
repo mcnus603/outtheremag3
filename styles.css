@@ -1,0 +1,56 @@
+
+.cnv {
+	margin-top: 5px;
+	margin-left: 5vw;
+}
+
+.reset{
+	font-size: 12px;
+	font-family: Monospace821BT-Bold;
+	position: absolute;
+	right: 12vw;
+	top:50px;
+/*	margin-top: 40px;*/
+/*	float: left;*/
+	height: 18px;
+
+}
+
+.toolbar{
+	font-size: 16px;
+	font-family: Monospace821BT-Bold;
+	margin-top: 10px;
+	float: left;
+	height: 18px;
+	margin-left: 5vw;
+}
+
+
+.GoudyTextMTStd { 
+	font-family: GoudyTextMTStd;
+	font-weight: normal;
+	font-style: normal;
+}
+.SlatePro-Bold { 
+	font-family: SlatePro-Bold;
+	font-weight: normal;
+	font-style: normal;
+}
+.SlatePro { 
+	font-family: SlatePro;
+	font-weight: normal;
+	font-style: normal;
+}
+
+
+body{
+	overflow: hidden;
+}
+
+.toolbar:hover {
+	text-decoration: underline;
+
+}
+.reset:hover {
+	text-decoration: underline;
+}
